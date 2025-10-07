@@ -25,8 +25,3 @@ It’s a basic front-end project that helped me understand layout structure, sty
 ## Future Improvements
 - Add JavaScript for interactivity (like clicking videos or toggling sidebar)
 - Make it fully responsive for mobile screens
-
----
-
-**Feel free to check it out and give feedback!**  
-Made with by [Abdullah Faisal](https://github.com/YOUR_GITHUB_USERNAME)
